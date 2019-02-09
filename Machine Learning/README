@@ -1,12 +1,12 @@
 This Git contains the FastAi Machine Learning notebooks ready to run them in Google Colab.
 
-Please, visit the official site <a href="http://course18.fast.ai/ml">http://course18.fast.ai/ml</a>
+Please, visit the official site http://course18.fast.ai/ml
 
 # Fast.ai -  Introduction to Machine Learning for Coders
 
 Welcome to Introduction to Machine Learning for Coders! taught by Jeremy Howard.
 Learn the most important machine learning models, including how to create them yourself from scratch, as well as key skills in data preparation, model validation, and building data products. 
 
-Lesson 1 - <a href="https://www.youtube.com/watch?v=CzdWqFTmn0Y">Introduction to Random Forests</a> - Use Lesson1 notebook
-Lesson 2 - <a href="https://www.youtube.com/watch?v=blyXCk4sgEg">Random Forest Deep Dive</a> - Use Lesson1 notebook
-Lesson 3 - <a href="https://www.youtube.com/watch?v=YSFG_W8JxBo">Performance, Validation and Model Interpretation</a> - Use Lesson3 notebook
+Lesson 1 - Introduction to Random Forests https://www.youtube.com/watch?v=CzdWqFTmn0Y - Use Lesson1 notebook
+Lesson 2 - Random Forest Deep Dive https://www.youtube.com/watch?v=blyXCk4sgEg - Use Lesson1 notebook
+Lesson 3 - Performance, Validation and Model Interpretation https://www.youtube.com/watch?v=YSFG_W8JxBo - Use Lesson3 notebook
