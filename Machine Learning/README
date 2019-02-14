@@ -20,4 +20,18 @@ Learn the most important machine learning models, including how to create them y
        - Random forest interpretation (video from 50 minunte) https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson3_randomforest_interpretation.ipynb
 - Lesson 4 - Feature Importance, Tree Interpreter
   video:  https://www.youtube.com/watch?v=0v93qHDqq_g
-  notebook:
+  notebook: https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson3_randomforest_interpretation.ipynb
+- Lesson 5 - Extrapolation and RF from Scratch
+  video:  https://www.youtube.com/watch?v=3jl2h9hSRvc
+  notebook: 
+       - Interpretation https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson3_randomforest_interpretation.ipynb
+       - Foundations  https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson5_randomforest_foundations.ipynb
+- Lesson 6 - Data Products and Live Coding
+  video:  https://www.youtube.com/watch?v=BFIYUvBRTpE
+  notebook: https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson3_randomforest_interpretation.ipynb
+- Lesson 7 - RF from Scratch and Gradient Descent
+  video:  https://www.youtube.com/watch?v=O5F9vR2CNYI
+  notebook: 
+- Lesson 8 - Gradient Descent and Logistic Regression
+  video:  https://www.youtube.com/watch?v=DzE0eSdy5Hk
+  notebook: 
