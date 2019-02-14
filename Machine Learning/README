@@ -8,8 +8,16 @@ Welcome to Introduction to Machine Learning for Coders! taught by Jeremy Howard.
 Learn the most important machine learning models, including how to create them yourself from scratch, as well as key skills in data preparation, model validation, and building data products. 
 
 - Lesson 1 - Introduction to Random Forests 
-   https://www.youtube.com/watch?v=CzdWqFTmn0Y - Use Lesson1 notebook
-Lesson 2 - Random Forest Deep Dive https://www.youtube.com/watch?v=blyXCk4sgEg - Use Lesson1 notebook
-Lesson 3 - Performance, Validation and Model Interpretation https://www.youtube.com/watch?v=YSFG_W8JxBo - Lesson3 - Grocery notebook (video from 0 to 50 minutes)
-Lesson 3 - Feature Importance, Tree Interpreter - Lesson3 randomforest_interpretation notebook (video from 50 minunte)
-Lesson 4 - Feature Importance, Tree Interpreter -  https://www.youtube.com/watch?v=0v93qHDqq_g
+  video:  https://www.youtube.com/watch?v=CzdWqFTmn0Y
+  notebook: https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson1_randomforest.ipynb
+- Lesson 2 - Random Forest Deep Dive
+  video:  https://www.youtube.com/watch?v=blyXCk4sgEg
+  notebook: https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson1_randomforest.ipynb
+- Lesson 3 - Performance, Validation and Model Interpretation 
+  video:  https://www.youtube.com/watch?v=YSFG_W8JxBo
+  notebook: 
+       - Grocery notebook (video from 0 to 50 minutes) https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson3_grocery.ipynb
+       - Random forest interpretation (video from 50 minunte) https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson3_randomforest_interpretation.ipynb
+- Lesson 4 - Feature Importance, Tree Interpreter
+  video:  https://www.youtube.com/watch?v=0v93qHDqq_g
+  notebook:
