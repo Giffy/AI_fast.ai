@@ -35,7 +35,7 @@ Learn the most important machine learning models, including how to create them y
   video:  https://www.youtube.com/watch?v=BFIYUvBRTpE
   notebook: https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson3_randomforest_interpretation.ipynb
 
-- Lesson 7 - RF from Scratch and Gradient Descent
+- Lesson 7 - RF from Scratch
   video:  https://www.youtube.com/watch?v=O5F9vR2CNYI
   notebook: https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson5_randomforest_foundations.ipynb
 
